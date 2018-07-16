@@ -1,1 +1,1 @@
-# DesignPatterns
+# Practice for different Java Design pattern implementations
